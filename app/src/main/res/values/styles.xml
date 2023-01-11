@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TitleTextStyle">
+        <item name="android:fontFamily">@font/bahiana</item>
+        <item name="android:textSize">46sp</item>
+    </style>
+
+    <style name="BodyTextStyle">
+        <item name="android:fontFamily">@font/bahianita</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="ButtonStyleLight">
+        <item name="android:fontFamily">@font/bahiana</item>
+        <item name="android:textSize">34sp</item>
+        <item name="backgroundTint">#A65853</item>
+    </style>
+
+    <style name="ButtonStyleDark">
+        <item name="android:fontFamily">@font/bahiana</item>
+        <item name="android:textSize">34sp</item>
+        <item name="backgroundTint">#FBFBFB</item>
+    </style>
+</resources>
